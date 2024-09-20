@@ -2,21 +2,25 @@
 
 Este projeto é uma agenda interativa desenvolvida em PHP e JavaScript, utilizando a biblioteca FullCalendar para exibição e gerenciamento de eventos. A agenda permite adicionar, editar e remover eventos de maneira intuitiva.
 
-## Tecnologias Utilizadas
+## Propósito do Projeto 🎓
+
+Este projeto foi desenvolvido para fins de estudo e aprendizado. O objetivo é aprofundar conhecimentos em PHP, JavaScript e na utilização da biblioteca FullCalendar, além de praticar habilidades de desenvolvimento web e integração com banco de dados.
+
+## Tecnologias Utilizadas 💻
 
 - **PHP**: Para o backend e manipulação de dados.
 - **JavaScript**: Para a interação dinâmica no frontend.
 - **FullCalendar**: Biblioteca de calendário para exibir eventos.
 - **MySQL**: Banco de dados para armazenar informações sobre os eventos.
 
-## Funcionalidades
+## Funcionalidades 🔨
 
 - Visualização de eventos em formato mensal, semanal e diário.
 - Adição, edição e exclusão de eventos.
 - Armazenamento de dados em um banco de dados MySQL.
 - Interface responsiva e amigável.
 
-## Pré-requisitos
+## Pré-requisitos 📋
 
 Antes de começar, verifique se você possui os seguintes itens instalados:
 
@@ -24,7 +28,7 @@ Antes de começar, verifique se você possui os seguintes itens instalados:
 - [MySQL](https://www.mysql.com/)
 - [Composer](https://getcomposer.org/) (opcional, se estiver usando bibliotecas PHP)
 
-## Instalação
+## Instalação ⚙️
 
 1. **Clone o repositório**:
 
@@ -37,16 +41,19 @@ Antes de começar, verifique se você possui os seguintes itens instalados:
 - Crie um banco de dados no MySQL.
 - Importe o arquivo SQL presente no projeto (se houver) para criar as tabelas necessárias.
 
-3. Configurações do ambiente:
+3. **Configurações do ambiente**:
 
 - Edite o arquivo de configuração do banco de dados (config.php) com suas credenciais.
 
-4. Instale as dependências (se necessário):
+4. **Instale as dependências (se necessário)**:
 
 - Execute composer install para instalar as dependências PHP.
 
-## Uso
+## Uso 📅
 
 - Após acessar a aplicação, você poderá visualizar o calendário.
 - Para adicionar um evento, clique na data desejada e preencha as informações solicitadas.
 - Você também pode editar ou excluir eventos existentes.
+
+## Contribuições 🤝
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para discutir melhorias.
